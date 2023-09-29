@@ -1,9 +1,9 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Bilegt Gantugs",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
-	"author": "Bilegt Gantugs",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
